@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Magento
+ *
+ *
+ * @category    Custom magento Tasks
+ * @package     SHAPP_Customtask
+ * @copyright   Copyright (c) 2014 ( Developer Sandeep Singh )
+ * @license     http://opensource.org/licenses/osl-3.0.php  Open Software License (OSL 3.0)
+ */
+-->
+<config>
+    <modules>
+        <SHAPP_Captureemailcheckout>
+            <active>true</active>
+            <codePool>local</codePool>
+        </SHAPP_Captureemailcheckout>
+    </modules>
+</config>
